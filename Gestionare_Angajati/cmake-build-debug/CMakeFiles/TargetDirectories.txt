@@ -1,0 +1,3 @@
+D:/Programare/C & C++/Projects/Gestionare_Angajati/cmake-build-debug/CMakeFiles/Laborator5.dir
+D:/Programare/C & C++/Projects/Gestionare_Angajati/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programare/C & C++/Projects/Gestionare_Angajati/cmake-build-debug/CMakeFiles/rebuild_cache.dir
